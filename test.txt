@@ -1,3 +1,4 @@
 My test statement.
-This message from the Github.
-The third line form the local machine. 
+This message is from GitHub.
+The third line from the local machine. 
+Ok we did accept it. 
